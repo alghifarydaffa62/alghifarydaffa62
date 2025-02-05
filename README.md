@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alghifarydaffa62&label=Profile%20views&color=0e75b6&style=flat" alt="alghifarydaffa62" /> </p>
 
-- 🌱 I’m currently learning **Front End Web Development**
+- 🌱 I’m currently learning **Web3 development**
 
 - 👨‍💻 All of my projects are available at [https://alghifarydaffa62.github.io/Portfolio-Website/](https://alghifarydaffa62.github.io/Portfolio-Website/)
 
