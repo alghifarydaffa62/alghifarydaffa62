@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web3 development**
 
-- 👨‍💻 All of my projects are available at [https://alghifarydaffa62.github.io/Portfolio-Website/](https://alghifarydaffa62.github.io/Portfolio-Website/)
+- 👨‍💻 All of my projects are available at [dfpro20.vercel.app/](https://dfpro20.vercel.app)
 
 - 📫 How to reach me **daffa.alghifary62@gmail.com**
 
